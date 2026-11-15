@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Large files: downloaded by scripts, never pushed
+data/raw/
+data/reference/
+*.fastq.gz
+*.fa.gz
+*.qza
+*.qzv
