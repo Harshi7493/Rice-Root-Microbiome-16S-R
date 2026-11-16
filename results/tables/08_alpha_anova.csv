@@ -1,0 +1,10 @@
+"metric","term","F","p"
+"Observed","compartment",121.13,1.25e-14
+"Observed","day_f",0.28,0.762
+"Observed","compartment:day_f",3.32,0.0158
+"Shannon","compartment",39.51,1.92e-09
+"Shannon","day_f",1.48,0.247
+"Shannon","compartment:day_f",1.99,0.107
+"Pielou","compartment",9.57,0.000243
+"Pielou","day_f",0.59,0.56
+"Pielou","compartment:day_f",0.52,0.787
