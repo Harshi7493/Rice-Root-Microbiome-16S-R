@@ -1,0 +1,37 @@
+"sample_id","compartment","day","reads","observed_asvs"
+"JE.TC.19","Bulk soil",1,82851,1303
+"JE.TC.20","Bulk soil",1,99222,1626
+"JE.TC.21","Bulk soil",1,62326,1372
+"JE.TC.16","Endosphere",1,3620,122
+"JE.TC.17","Endosphere",1,2765,105
+"JE.TC.18","Endosphere",1,5297,151
+"JE.TC.13","Rhizoplane",1,45825,597
+"JE.TC.14","Rhizoplane",1,52499,832
+"JE.TC.15","Rhizoplane",1,66093,772
+"JE.TC.10","Rhizosphere",1,56549,1325
+"JE.TC.11","Rhizosphere",1,80491,1545
+"JE.TC.12","Rhizosphere",1,60402,1145
+"JE.TC.57","Bulk soil",5,76167,1565
+"JE.TC.58","Bulk soil",5,74459,1546
+"JE.TC.59","Bulk soil",5,36777,1064
+"JE.TC.54","Endosphere",5,41617,301
+"JE.TC.55","Endosphere",5,10819,274
+"JE.TC.56","Endosphere",5,7435,252
+"JE.TC.51","Rhizoplane",5,74821,774
+"JE.TC.52","Rhizoplane",5,42964,757
+"JE.TC.53","Rhizoplane",5,53652,1035
+"JE.TC.48","Rhizosphere",5,51922,1184
+"JE.TC.49","Rhizosphere",5,52960,1072
+"JE.TC.50","Rhizosphere",5,49834,948
+"JE.TC.81","Bulk soil",13,65064,1426
+"JE.TC.82","Bulk soil",13,55696,1324
+"JE.TC.83","Bulk soil",13,59403,1398
+"JE.TC.78","Endosphere",13,31954,388
+"JE.TC.79","Endosphere",13,50402,560
+"JE.TC.80","Endosphere",13,31712,444
+"JE.TC.75","Rhizoplane",13,50623,630
+"JE.TC.76","Rhizoplane",13,41702,618
+"JE.TC.77","Rhizoplane",13,48964,464
+"JE.TC.72","Rhizosphere",13,37928,1216
+"JE.TC.73","Rhizosphere",13,64151,1237
+"JE.TC.74","Rhizosphere",13,34074,985
