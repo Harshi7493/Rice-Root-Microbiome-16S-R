@@ -11,3 +11,4 @@ data/reference/
 *.qza
 *.qzv
 data/processed/dada_per_sample/
+data/processed/taxonomy_chunks/
