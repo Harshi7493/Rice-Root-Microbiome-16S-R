@@ -10,3 +10,4 @@ data/reference/
 *.fa.gz
 *.qza
 *.qzv
+data/processed/dada_per_sample/
