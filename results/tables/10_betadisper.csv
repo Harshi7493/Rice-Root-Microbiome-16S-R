@@ -1,0 +1,5 @@
+"metric","F","p","Bulk soil","Rhizosphere","Rhizoplane","Endosphere"
+"Jaccard",23.45,0.001,0.547,0.571,0.616,0.608
+"Bray-Curtis",20.11,0.001,0.366,0.432,0.537,0.518
+"Unweighted UniFrac",14.97,0.001,0.369,0.383,0.446,0.432
+"Weighted UniFrac",22.56,0.001,0.052,0.065,0.096,0.103

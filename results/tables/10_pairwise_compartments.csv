@@ -1,0 +1,13 @@
+"metric","group1","group2","R2","p","p_adj"
+"Bray-Curtis","Bulk soil","Rhizosphere",0.193,0.001,0.0012
+"Bray-Curtis","Bulk soil","Rhizoplane",0.309,0.001,0.0012
+"Bray-Curtis","Bulk soil","Endosphere",0.376,0.001,0.0012
+"Bray-Curtis","Rhizosphere","Rhizoplane",0.15,0.001,0.0012
+"Bray-Curtis","Rhizosphere","Endosphere",0.256,0.001,0.0012
+"Bray-Curtis","Rhizoplane","Endosphere",0.072,0.179,0.179
+"Weighted UniFrac","Bulk soil","Rhizosphere",0.39,0.001,0.0015
+"Weighted UniFrac","Bulk soil","Rhizoplane",0.481,0.001,0.0015
+"Weighted UniFrac","Bulk soil","Endosphere",0.542,0.001,0.0015
+"Weighted UniFrac","Rhizosphere","Rhizoplane",0.196,0.002,0.0024
+"Weighted UniFrac","Rhizosphere","Endosphere",0.365,0.001,0.0015
+"Weighted UniFrac","Rhizoplane","Endosphere",0.113,0.022,0.022

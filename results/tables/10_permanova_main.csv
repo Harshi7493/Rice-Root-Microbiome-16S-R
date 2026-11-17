@@ -1,0 +1,13 @@
+"metric","term","R2","F","p"
+"Jaccard","compartment",0.169,2.26,0.001
+"Jaccard","day_f",0.072,1.45,0.001
+"Jaccard","compartment:day_f",0.16,1.07,0.127
+"Bray-Curtis","compartment",0.311,5.65,0.001
+"Bray-Curtis","day_f",0.118,3.22,0.001
+"Bray-Curtis","compartment:day_f",0.131,1.19,0.137
+"Unweighted UniFrac","compartment",0.289,4.78,0.001
+"Unweighted UniFrac","day_f",0.086,2.12,0.002
+"Unweighted UniFrac","compartment:day_f",0.142,1.17,0.11
+"Weighted UniFrac","compartment",0.46,11.98,0.001
+"Weighted UniFrac","day_f",0.106,4.13,0.001
+"Weighted UniFrac","compartment:day_f",0.127,1.65,0.03

@@ -1,0 +1,13 @@
+"metric","compartment","day1","day5","day13","spearman_rho","p","p_adj"
+"Bray-Curtis","Endosphere",0.934,0.932,0.974,0.74,0.0232,0.0309
+"Bray-Curtis","Rhizoplane",0.858,0.866,0.958,0.79,0.0112,0.0269
+"Bray-Curtis","Rhizosphere",0.608,0.669,0.758,0.79,0.0112,0.0269
+"Jaccard","Endosphere",0.976,0.971,0.983,0.53,0.145,0.158
+"Jaccard","Rhizoplane",0.936,0.938,0.975,0.69,0.0417,0.05
+"Jaccard","Rhizosphere",0.84,0.86,0.9,0.9,0.00108,0.013
+"Unweighted UniFrac","Endosphere",0.811,0.786,0.829,0.37,0.329,0.329
+"Unweighted UniFrac","Rhizoplane",0.699,0.705,0.792,0.74,0.0232,0.0309
+"Unweighted UniFrac","Rhizosphere",0.579,0.586,0.646,0.74,0.0232,0.0309
+"Weighted UniFrac","Endosphere",0.205,0.207,0.23,0.74,0.0232,0.0309
+"Weighted UniFrac","Rhizoplane",0.162,0.185,0.213,0.79,0.0112,0.0269
+"Weighted UniFrac","Rhizosphere",0.099,0.132,0.142,0.79,0.0112,0.0269
