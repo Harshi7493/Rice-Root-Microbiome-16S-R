@@ -12,3 +12,5 @@ data/reference/
 *.qzv
 data/processed/dada_per_sample/
 data/processed/taxonomy_chunks/
+data/processed/asv_alignment.rds
+data/processed/asv_tree.rds
